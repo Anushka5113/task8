@@ -1,0 +1,16 @@
+1) West Region Leads in Sales
+The West region generates the highest total sales among all regions, making it the top-performing region overall.
+
+2)South Region Has the Lowest Sales
+The South region contributes the least to total sales compared to West, East, and Central regions, indicating potential growth opportunities.
+
+3) Category Drives Revenue
+Among all categories, Technology contributes the highest share of total sales, followed by Furniture and Office Supplies.
+
+4)Overall Sales Show a Declining Trend
+The monthly sales trend line indicates a gradual decline over time, suggesting decreasing sales performance in recent months.
+
+5)Strong Profit Relative to Sales
+With total sales of 2.30M and total profit of 286.40K, the company maintains a positive profit margin, showing overall business profitability.
+
+
